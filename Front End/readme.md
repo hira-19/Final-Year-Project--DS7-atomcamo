@@ -1,6 +1,6 @@
 # Visual Question Answering Application
 
-This repository contains a **Text-to-Speech (TTS) web application** built with a separate **backend** and **frontend** architecture. The backend, developed with Streamlit, handles text processing and audio generation, while the frontend, designed using Bootstrap and JavaScript, provides an intuitive user interface.
+This repository contains a **Visual Question Answering Application** built with a frontend, designed using Bootstrap and JavaScript, provides an intuitive user interface.
 
 ---
 
