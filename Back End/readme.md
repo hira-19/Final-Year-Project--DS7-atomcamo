@@ -1,4 +1,4 @@
-#VQA  Application
+# VQA  Application
 
 This directory contains the **backend** implementation of the Text-to-Speech (TTS) application. The backend handles core functionalities such as text processing, audio generation, and language translation.
 
